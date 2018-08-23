@@ -1,13 +1,13 @@
-لتنصيب سورس كيناي ع التوكن
+لتنصيب سورس سبايدر ع التوكن
 
 
-git clone https://github.com/kkenae/KENAEM.git && cd KENAEM && chmod + x install.sh && ./install.sh 
+https://github.com/WEKOTEM/Spyder && cd Spyder && cd KENAEM && chmod + x install.sh && ./install.sh 
 ┉ ┉ ┉ ┉ ┉ ┉ ┉ ┉ ┉
        
- ./KENAE/ts    كود رن  
+ ./Spyder/ts    كود رن  
 ┉ ┉ ┉ ┉ ┉ ┉ ┉ ┉ ┉
 
-rm-rf *KENAE   كودحذف التنصيب
+rm-rf *Spyder  كودحذف التنصيب
 
 
 
