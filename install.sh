@@ -202,7 +202,7 @@ echo -e "\e[38;5;77m       »»     Install KENAE [90%]     ««\e[0m"
 echo -e "\e[38;5;77m     »»     Welcome to install KENAE     ««\e[0m"
 echo -e "\e[38;5;77m       »»     Install KENAE [91%]     ««\e[0m"
  cd ..
- cd KENAE
+ cd Spyder
  rm -rf "luarocks-2.2.2"
  wget "https://valtman.name/files/telegram-cli-1222"
  reset
@@ -216,8 +216,8 @@ sudo apt-get install libexpat1-dev  -y
 reset
 echo -e "\e[38;5;77m     »»     Welcome to install KENAE     ««\e[0m"
 echo -e "\e[38;5;77m       »»     Install KENAE [100%]     ««\e[0m"
-echo -e "\27[34m     »»     KENAE Channel ; @KENAETEAM      ««\e[0m"
+echo -e "\27[34m     »»     KENAE Channel ; @QYYYY      ««\e[0m"
 chmod +x tg
 chmod +x ts
-chmod +x KENAE
+chmod +x Spyder
 ./ts
